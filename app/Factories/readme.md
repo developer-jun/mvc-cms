@@ -1,0 +1,1 @@
+- The main use of Factory for me specifically, is so that it handles logic which use to be handled by the contructor of the target class are now handled on the Factory class while making the target class's constructor purely instantiation and class attribute creation.
